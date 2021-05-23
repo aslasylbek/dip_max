@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_tab_products.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-ldpi/ic_tab_products.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_tab_transfers.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_tab_transfers.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_home.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_tab_home.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_tab_transfers.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_tab_transfers.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_tab_products.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_tab_products.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_fragment_slides_list.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/fragment_slides_list.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_products.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-mdpi/ic_tab_products.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_tab_home.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_tab_home.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable_splash_bg.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/drawable/splash_bg.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_transfers.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-mdpi/ic_tab_transfers.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/navigation_tab_products.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/navigation/tab_products.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_menu.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-mdpi/ic_tab_menu.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_tab_menu.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_tab_menu.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_tab_menu.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-ldpi/ic_tab_menu.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_tab_menu.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_tab_menu.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_tab_home.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_tab_home.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_activity_pdf_reader.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/activity_pdf_reader.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_tab_home.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_tab_home.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_item_slide.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/item_slide.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable_ic_tab_payments.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/drawable/ic_tab_payments.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_activity_video_player.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/activity_video_player.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/navigation_tab_home.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/navigation/tab_home.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_tab_products.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_tab_products.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_menu.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_tab_menu.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_video_list_item.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/video_list_item.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/navigation_tab_payments.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/navigation/tab_payments.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_transfers.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_tab_transfers.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/navigation_tab_transfers.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/navigation/tab_transfers.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_products.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-hdpi/ic_tab_products.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_fragment_video_list.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/fragment_video_list.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout-land_video_list_item.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout-land/video_list_item.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_tab_products.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_tab_products.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_tab_products.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_tab_products.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_tab_transfers.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_tab_transfers.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_fragment_main.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_tab_menu.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_tab_menu.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/layout_fragment_about.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_tab_menu.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_tab_menu.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_home.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-mdpi/ic_tab_home.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_tab_transfers.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_tab_transfers.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_tab_home.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-ldpi/ic_tab_home.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/navigation_tab_menu.xml.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/res/navigation/tab_menu.xml"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_tab_transfers.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-ldpi/ic_tab_transfers.png"
+    },
+    {
+        "merged": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_tab_home.png.flat",
+        "source": "/Users/aslanassylbek/Downloads/Youtube-App-master/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_tab_home.png"
+    }
+]

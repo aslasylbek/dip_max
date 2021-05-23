@@ -1,0 +1,32 @@
+[
+  {
+    "name": "tab_transfers",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "tab_payments",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "mobile_navigation",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "tab_home",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "tab_products",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "tab_menu",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]
