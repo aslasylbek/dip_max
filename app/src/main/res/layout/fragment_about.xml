@@ -24,7 +24,7 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="П17-4Ф"
+        android:text="П17-4А"
         android:textSize="22sp"
         android:textAlignment="center"
         app:layout_constraintTop_toBottomOf="@id/textView"

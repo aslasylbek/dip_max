@@ -12,6 +12,16 @@
         android:title="Слайдтар" />
 
     <item
+        android:id="@+id/tab_payments"
+        android:icon="@drawable/ic_tab_payments"
+        android:title="Лекция" />
+
+    <item
+        android:id="@+id/tab_transfers"
+        android:icon="@drawable/ic_tab_transfers"
+        android:title="Зертханалық жұмыс" />
+
+    <item
         android:id="@+id/tab_menu"
         android:icon="@drawable/ic_tab_menu"
         android:title="Автор жайында" />

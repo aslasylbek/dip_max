@@ -7,8 +7,14 @@
 
     <fragment
         android:id="@+id/tabPaymentsFragment"
-        android:name="com.exam.youtube.ui.slides.SlidesListFragment"
+        android:name="com.exam.youtube.ui.slides.LabsFragment"
         android:label="fragment_tab_payments"
         tools:layout="@layout/fragment_slides_list" />
+
+    <fragment
+        android:id="@+id/pdfReader"
+        android:name="com.exam.youtube.ui.PdfReaderActivity"
+        android:label="fragment_pdf"
+        tools:layout="@layout/activity_pdf_reader" />
 
 </navigation>

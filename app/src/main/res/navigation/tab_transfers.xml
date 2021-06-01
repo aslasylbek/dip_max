@@ -7,9 +7,15 @@
 
     <fragment
         android:id="@+id/tabTransfersFragment"
-        android:name="com.exam.youtube.ui.video.VideoListFragment"
+        android:name="com.exam.youtube.ui.slides.LectureFragment"
         android:label="fragment_tab_transfers"
-        tools:layout="@layout/fragment_video_list">
+        tools:layout="@layout/fragment_slides_list">
     </fragment>
+
+    <fragment
+        android:id="@+id/pdfReader"
+        android:name="com.exam.youtube.ui.PdfReaderActivity"
+        android:label="fragment_pdf"
+        tools:layout="@layout/activity_pdf_reader" />
 
 </navigation>

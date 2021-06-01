@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">C++ окулык диплом</string>
+    <string name="app_name">С++ бағдарламалау тілі бойынша электрондық оқулық</string>
     <string name="thumbnail">Thumbnail</string>
     <string name="network_request_failed">something went wrong, please try again</string>
     <string name="logo">logo</string>

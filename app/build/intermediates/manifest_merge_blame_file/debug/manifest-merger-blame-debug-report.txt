@@ -32,51 +32,50 @@
 20-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:12:9-54
 21        android:supportsRtl="true"
 21-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:13:9-35
-22        android:testOnly="true"
-23        android:theme="@style/AppTheme" >
-23-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:14:9-40
-24        <activity
-24-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:15:9-23:20
-25            android:name="com.exam.youtube.ui.SplashActivity"
-25-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:16:13-46
-26            android:theme="@style/SplashTheme" >
-26-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:17:13-47
-27            <intent-filter>
-27-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:18:13-22:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:19:17-69
-28-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:19:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:21:17-77
-30-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:21:27-74
-31            </intent-filter>
-32        </activity>
-33        <activity android:name="com.exam.youtube.ui.MainActivity" />
-33-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:24:9-52
-33-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:24:19-50
-34        <activity
-34-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:25:9-28:59
-35            android:name="com.exam.youtube.ui.player.VideoPlayerActivity"
-35-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:26:13-58
-36            android:configChanges="keyboardHidden|orientation|screenSize"
-36-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:27:13-74
-37            android:theme="@style/AppTheme.NoActionBar" />
-37-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:28:13-56
-38        <activity android:name="com.exam.youtube.ui.home.HomeActivity" />
-38-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:29:9-58
-38-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:29:19-55
-39
-40        <provider
-40-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
-41            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-41-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
-42            android:authorities="com.essam.youtubeplayerkt.lifecycle-process"
-42-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
-43            android:exported="false"
-43-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
-44            android:multiprocess="true" />
-44-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
-45    </application>
-46
-47</manifest>
+22        android:theme="@style/AppTheme" >
+22-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:14:9-40
+23        <activity
+23-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:15:9-23:20
+24            android:name="com.exam.youtube.ui.SplashActivity"
+24-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:16:13-46
+25            android:theme="@style/SplashTheme" >
+25-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:17:13-47
+26            <intent-filter>
+26-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:18:13-22:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:19:17-69
+27-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:19:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:21:17-77
+29-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:21:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="com.exam.youtube.ui.MainActivity" />
+32-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:24:9-52
+32-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:24:19-50
+33        <activity
+33-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:25:9-28:59
+34            android:name="com.exam.youtube.ui.player.VideoPlayerActivity"
+34-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:26:13-58
+35            android:configChanges="keyboardHidden|orientation|screenSize"
+35-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:27:13-74
+36            android:theme="@style/AppTheme.NoActionBar" />
+36-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:28:13-56
+37        <activity android:name="com.exam.youtube.ui.home.HomeActivity" />
+37-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:29:9-58
+37-->/Users/aslanassylbek/Downloads/Youtube-App-master/app/src/main/AndroidManifest.xml:29:19-55
+38
+39        <provider
+39-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+40            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+40-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+41            android:authorities="com.essam.youtubeplayerkt.lifecycle-process"
+41-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+42            android:exported="false"
+42-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+43            android:multiprocess="true" />
+43-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/aslanassylbek/.gradle/caches/transforms-2/files-2.1/0733efe3156467a221268518057f7707/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+44    </application>
+45
+46</manifest>

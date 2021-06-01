@@ -26,6 +26,8 @@ class MainFragment : Fragment(R.layout.fragment_main) {
 
         val PAGE_HOME = R.id.tab_home
         val PAGE_PRODUCTS = R.id.tab_products
+        val PAGE_TRANSFERS = R.id.tab_transfers
+        val PAGE_PAYMENTS = R.id.tab_payments
         val PAGE_MENU = R.id.tab_menu
     }
 
@@ -83,6 +85,8 @@ class MainFragment : Fragment(R.layout.fragment_main) {
             listOf(
                 R.navigation.tab_home,
                 R.navigation.tab_products,
+                R.navigation.tab_transfers,
+                R.navigation.tab_payments,
                 R.navigation.tab_menu
             ), childFragmentManager, R.id.container_view, activity?.intent
         )
